@@ -8,13 +8,13 @@ export default function Intro() {
     return (
         <div className="text">
             <div className="about">
-                <p>I'm an engineer & writer. Currently, I study computer science & linguistics at Stanford.</p>
-                <p>In the past, I've done research in the <a href="https://nlp.stanford.edu/">Stanford NLP Group</a> and the <a href="https://web.stanford.edu/group/phonlab/cgi-bin/wordpress/">Stanford Phonetics Lab</a>.
+                <p>I&apos;m an engineer & writer. Currently, I study computer science & linguistics at Stanford.</p>
+                <p>In the past, I&apos;ve done research in the <a href="https://nlp.stanford.edu/">Stanford NLP Group</a> and the <a href="https://web.stanford.edu/group/phonlab/cgi-bin/wordpress/">Stanford Phonetics Lab</a>.
                     I was part of <a href="https://chaoyangtrap.house/">Chaoyang Trap</a> (2021-2023), an experimental newsletter about the Chinese internet.
-                    I've done backend development & built websites.
+                    I&apos;ve done backend development & built websites.
                 </p>
                 <p>In my free time, I make zines, freelance (most recently in <a href="">The Baffler</a> & <a href="">Heichi</a>), and occasionally publish poems.
-                   I'm broadly interested in spoken language processing, sociophonetics, and media technology.
+                   I&apos;m broadly interested in spoken language processing, sociophonetics, and media technology.
                 </p>
                 <p>🍤🥟粤产出口品。</p>
             </div>

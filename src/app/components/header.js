@@ -20,7 +20,7 @@ export default function Header() {
     return (
         <div className="headerContainer">
             <div className="header">
-                <h1>hi, i'm ting 聽 ✧*･ﾟ:*</h1>
+                <h1>hi, i&apos;m ting 聽 ✧*･ﾟ:*</h1>
                 <div className="imageContainer"><Image src='/images/result.png' alt='pixel art of me as eevee' width={100} height={100} /></div>
             </div>
             <Menu />
