@@ -13,7 +13,7 @@ export default function Intro() {
                     I was part of <a href="https://chaoyangtrap.house/">Chaoyang Trap</a> (2021-2023), an experimental newsletter about the Chinese internet.
                     I&apos;ve done backend development & built websites.
                 </p>
-                <p>In my free time, I make zines, freelance (most recently in <a href="">The Baffler</a> & <a href="">Heichi</a>), and occasionally publish poems.
+                <p>In my free time, I make zines, freelance (most recently in <a href="https://thebaffler.com/latest/queer-memories-in-beijing-lin-wang">The Baffler</a> & <a href="http://www.heichimagazine.org/en/articles/995/escaping-real-time-on-cantopop-nostalgia">Heichi</a>), and occasionally publish poems.
                    I&apos;m broadly interested in spoken language processing, sociophonetics, and media technology.
                 </p>
                 <p>🍤🥟粤产出口品。</p>
