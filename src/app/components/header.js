@@ -10,8 +10,8 @@ function Menu() {
         <div className="menu">
             <Link href="/">about • </Link>
             <Link href="/writing">writing • </Link>
-            {/* <Link href="/projects">projects • </Link> */}
-            <a href="https://drive.google.com/file/d/1-x4K4Bcg7b-MLfNu2s6uMt1YdbGH4aUg/view?usp=sharing">resume</a>
+            <a href="https://tinglin.itch.io/">games</a>
+            {/* <a href="https://drive.google.com/file/d/1-x4K4Bcg7b-MLfNu2s6uMt1YdbGH4aUg/view?usp=sharing">resume</a> */}
         </div>
     )
 }
