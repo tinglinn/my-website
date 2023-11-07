@@ -9,7 +9,7 @@ export default function Intro() {
         <div className="text">
             <div className="about">
                 <p>I&apos;m an engineer & writer. Currently, I study computer science & linguistics at Stanford.</p>
-                <p>In the past, I've done research in the the <a href="https://nlp.stanford.edu/">Stanford NLP Group</a> and the <a href="https://web.stanford.edu/group/phonlab/cgi-bin/wordpress/">Stanford Phonetics Lab</a>.
+                <p>In the past, I&apos;ve done research in the the <a href="https://nlp.stanford.edu/">Stanford NLP Group</a> and the <a href="https://web.stanford.edu/group/phonlab/cgi-bin/wordpress/">Stanford Phonetics Lab</a>.
                 I was part of <a href="https://chaoyangtrap.house/">Chaoyang Trap</a> (2021-2023), an experimental newsletter about the Chinese internet.
                 </p>
                 <p>In my free time, I make zines, freelance (most recently in <a href="https://thebaffler.com/latest/queer-memories-in-beijing-lin-wang">The Baffler</a> & <a href="http://www.heichimagazine.org/en/articles/995/escaping-real-time-on-cantopop-nostalgia">Heichi</a>), and occasionally publish poems.
