@@ -12,8 +12,8 @@ export default function Intro() {
                 <p>In the past, I&apos;ve done research in the the <a href="https://nlp.stanford.edu/">Stanford NLP Group</a>, the <a href="https://web.stanford.edu/group/phonlab/cgi-bin/wordpress/">Stanford Phonetics Lab</a> and the Stanford Bilingualism Group.
                 I was part of <a href="https://chaoyangtrap.house/">Chaoyang Trap</a> (2021-2023), an experimental newsletter about the Chinese internet.
                 </p>
-                <p>In my free time, I make zines, freelance (most recently in <a href="https://thebaffler.com/latest/queer-memories-in-beijing-lin-wang">The Baffler</a> & <a href="http://www.heichimagazine.org/en/articles/995/escaping-real-time-on-cantopop-nostalgia">Heichi</a>), and occasionally publish poems.
-                   I&apos;m broadly interested in spoken language processing, sociophonetics, & media technology.
+                <p>In the past, I was a freelance journalist (<a href="https://thebaffler.com/latest/queer-memories-in-beijing-lin-wang">The Baffler</a> & <a href="https://radiichina.com/netease-leftist/">RADII</a> & others).
+                   Right now, I&apos;m broadly interested in spoken language processing, sociophonetics, & media technology. Sometimes I write poems!
                 </p>
                 <p>🍤🥟粤产出口品。</p>
             </div>
