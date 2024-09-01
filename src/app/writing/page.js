@@ -26,9 +26,9 @@ export default function Writing() {
 
             <h3>Poetry</h3>
             <ul>
+                <li>Another Year, <a href="https://aaww.org/another-year/">The Margins</a>, May 2024</li>
                 <li>Derma, <a href="https://sinetheta.net/23.html">Sine Theta Magazine</a>, May 2022</li>
                 <li>Ai-mei, <a href="https://www.bansheelit.com/shop/p/issue-11-springsummer-2021">Banshee Lit Issue #11</a>, Spring/Summer 2021</li>
-                <li>Baby yeah, <a href="https://winecellarpress.com/baby-yeah/">Wine Cellar Press</a>, July 2021</li> 
                 <li>A Purpose for Those Without, <a href="https://www.kissingdynamitepoetry.com/ting-lin-a-purpose-for-those-without.html">Kissing Dynamite Poetry</a>, October 2020</li>
             </ul>
             
