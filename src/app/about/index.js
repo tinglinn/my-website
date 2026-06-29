@@ -13,13 +13,14 @@ export default function Intro() {
                     Her essays and criticism can be found in The Nation & The Baffler.
                     She was part of <a href="https://chaoyangtrap.house/">Chaoyang Trap</a> (2021-2023), an experimental newsletter about the Chinese internet.
                 </p>
+                <p>She holds a B.A. in linguistics and M.S. in computer science from Stanford University.</p>
                 <p>🍤🥟粤产出口品。</p>
             </div>
             <div className="links">
                 <a href="mailto: tinglin0708@gmail.com"><AiTwotoneMail size={20} style={{ padding: 2 }} /></a>
                 <a href="https://twitter.com/imtootiredfor"><AiFillTwitterSquare size={20} style={{ padding: 2 }} /></a>
                 <a href="https://github.com/tinglinn"><AiFillGithub size={20} style={{ padding: 2 }} /></a>
-                <a href="https://www.linkedin.com/in/ting-linn/"><AiFillLinkedin size={20} style={{ padding: 2 }} /></a>
+                {/* <a href="https://www.linkedin.com/in/ting-linn/"><AiFillLinkedin size={20} style={{ padding: 2 }} /></a> */}
             </div>
         </div>
     );
