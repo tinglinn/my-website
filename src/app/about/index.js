@@ -8,12 +8,10 @@ export default function Intro() {
     return (
         <div className="text">
             <div className="about">
-                <p>I&apos;m an engineer & writer. Currently, I study computer science & linguistics at Stanford.</p>
-                <p>In the past, I&apos;ve done research in the the <a href="https://nlp.stanford.edu/">Stanford NLP Group</a> and the <a href="https://web.stanford.edu/group/phonlab/cgi-bin/wordpress/">Stanford Phonetics Lab</a>.
-                    I was part of <a href="https://chaoyangtrap.house/">Chaoyang Trap</a> (2021-2023), an experimental newsletter about the Chinese internet.
-                    My other writing can be seen in <a href="https://thebaffler.com/latest/queer-memories-in-beijing-lin-wang">The Baffler</a> and more.
-                </p>
-                <p>Right now, I&apos;m broadly interested in spoken language processing, sociophonetics, & media technology. In my free time, I occasionally write poems, make zines, & make games.
+                <p>Ting Lin is a writer & engineer based in Oakland, California.</p>
+                <p>Her poems have appeared in The Cincinnati Review, Michigan Quarterly Review, The Margins and more.
+                    Her essays and criticism can be found in The Nation & The Baffler.
+                    She was part of <a href="https://chaoyangtrap.house/">Chaoyang Trap</a> (2021-2023), an experimental newsletter about the Chinese internet.
                 </p>
                 <p>🍤🥟粤产出口品。</p>
             </div>
@@ -21,7 +19,7 @@ export default function Intro() {
                 <a href="mailto: tinglin0708@gmail.com"><AiTwotoneMail size={20} style={{ padding: 2 }} /></a>
                 <a href="https://twitter.com/imtootiredfor"><AiFillTwitterSquare size={20} style={{ padding: 2 }} /></a>
                 <a href="https://github.com/tinglinn"><AiFillGithub size={20} style={{ padding: 2 }} /></a>
-                <a href="https://www.linkedin.com/in/ting-lin-183b2a205/"><AiFillLinkedin size={20} style={{ padding: 2 }} /></a>
+                <a href="https://www.linkedin.com/in/ting-linn/"><AiFillLinkedin size={20} style={{ padding: 2 }} /></a>
             </div>
         </div>
     );
